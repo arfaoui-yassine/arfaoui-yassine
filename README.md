@@ -30,8 +30,9 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
 <a href="https://www.facebook.com/yassine.arfaoui.925" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
+  <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="40" alt="Facebook"/>
 </a>
+
 
   
 </p>
@@ -45,20 +46,15 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">🔥 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfaoui-yassine&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaoui-yassine&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
+  <img src="https://streak-stats.demolab.com?user=arfaoui-yassine&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfaoui-yassine&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide_title=true&line_height=24" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaoui-yassine&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" height="150" />
 </p>
 
-
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arfaoui-yassine&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
-</p>
 
 
 ---
