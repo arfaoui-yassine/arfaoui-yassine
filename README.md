@@ -23,15 +23,16 @@
 
 ### 🌐 Connect with Me
 <p align="left">
+  <a href="https://yassinearfaoui.me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=Website" height="40" alt="WebSite"/>
+  </a>
   <a href="https://www.linkedin.com/in/arfaoui-yassine-653897344" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/yassine.arfaoui.925" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
   </a>
-  <a href="https://yassinearfaoui.me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=Website" height="40" alt="WebSite"/>
-  </a>
+  
 </p>
 
 ---
