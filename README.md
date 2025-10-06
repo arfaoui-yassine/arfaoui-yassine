@@ -5,7 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/arfaoui-yassine">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=6558D3&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node.js+%7C+MySQL;Always+learning+new+things!">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=6558D3&center=true&vCenter=true&width=500&lines=FullStack+Developer;React+%7C+Node.js+%7C+MySQL;Always+learning+new+things!">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Next.js**, **Firebase**, and **TypeScript**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, and Python**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **yassinearfaoui131@gmail.com*
 - ⚡ Fun fact: *I love turning ideas into real web apps!*
 
 ---
@@ -24,14 +24,15 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://yassinearfaoui.me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=Website" height="40" alt="WebSite"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arfaoui-yassine-653897344" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/yassine.arfaoui.925" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
-  </a>
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="40" alt="Website"/>
+</a>
+<a href="https://www.linkedin.com/in/arfaoui-yassine-653897344" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/yassine.arfaoui.925" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
+</a>
+
   
 </p>
 
