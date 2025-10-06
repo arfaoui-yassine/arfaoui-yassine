@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on **[Your Current Project Name](#)**
+- 🔭 I’m currently working on **Mariage TN**
 - 🌱 I’m currently learning **Next.js**, **Firebase**, and **TypeScript**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, and Python**
@@ -23,17 +23,14 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/arfaoui-yassine-653897344" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://facebook.com/your-link" target="_blank">
+  <a href="https://www.facebook.com/yassine.arfaoui.925" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
   </a>
-  <a href="https://leetcode.com/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
-  </a>
-  <a href="https://discord.gg/your-link" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
+  <a href="https://yassinearfaoui.me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=Website" height="40" alt="WebSite"/>
   </a>
 </p>
 
@@ -52,17 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaoui-yassine&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
 </p>
 
----
 
-### 🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/arfaoui-yassine/Gylm" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arfaoui-yassine&repo=Gylm&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/arfaoui-yassine/AnotherProject" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arfaoui-yassine&repo=AnotherProject&theme=tokyonight" />
-  </a>
-</div>
 
 ---
 
@@ -71,12 +58,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=arfaoui-yassine&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
----
-
-### 💬 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
 
 ---
 
